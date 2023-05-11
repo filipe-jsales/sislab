@@ -13,7 +13,7 @@ export default async function Home() {
 
   console.log(response);
   return (
-    <main className="flex min-h-screen flex-col justify-between p-24">
+    <main className="flex min-h-screen min-w-full flex-col justify-between p-24">
       <SearchDomain/>
     </main>
   );

@@ -34,3 +34,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .env
+
+#locks
+yarn.lock
+package-lock.json
+
+#git
+.gitignore

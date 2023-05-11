@@ -1,17 +1,17 @@
 
 export default function CardDomain({inputValue}: any) {
     return (
-      <div className="border-b border-gray-200 pb-5 sm:flex sm:items-center sm:justify-between">
+      <div className="border-b border-gray-200 pb-5 sm:flex sm:items-center sm:justify-between mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div>
-          <h3 className="text-base font-semibold leading-6 text-gray-900">
+          <span className="text-3xl font-semibold leading-6 text-gray-900">
             {inputValue + ".com" || "example.com"}
-          </h3>
-        <div>
-          <a href="teste">Desconto</a>
-          <a className="ml-4" href="teste">Preço normal</a>
+          </span>
+        <div className="mt-2 mb-1">
+          <span>$90</span>
+          <span className="ml-4">$99</span>
         </div>
         <div>
-          <a className="text-xs" href="teste">On first year*</a>
+          <span className="text-gray-400 text-xs">On first year*</span>
         </div>
         </div>
         <div className="mt-3 sm:ml-4 sm:mt-0">
