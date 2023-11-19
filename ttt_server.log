@@ -1,0 +1,6 @@
+[2023-11-19 13:18:15] WARNING: There is an error when trying to bind 12345
+[2023-11-19 13:18:25] INFO: Reserved port 12345
+[2023-11-19 13:18:25] INFO: Listening to port 12345
+[2023-11-19 13:18:43] INFO: Received connection from ('127.0.0.1', 52786)
+[2023-11-19 13:18:55] INFO: Received connection from ('127.0.0.1', 52788)
+[2023-11-19 13:18:55] INFO: Player 2 is matched with player 1
