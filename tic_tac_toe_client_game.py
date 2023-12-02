@@ -178,9 +178,6 @@ class TTTClientGame(cttt.TTTClient):
 			raise Exception
 
 		# Draw the grid board
-		#print("|1|2|3|")
-		#print("|4|5|6|")
-		#print("|7|8|9|")
 		return("|" + s[0] + "|" + s[1]  + "|" + s[2] + "|\n" 
 			+ "|" + s[3] + "|" + s[4]  + "|" + s[5] + "|\n" 
 			+ "|" + s[6] + "|" + s[7]  + "|" + s[8] + "|\n")
