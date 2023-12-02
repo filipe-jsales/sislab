@@ -29,3 +29,8 @@
 [2023-12-02 09:44:00] INFO: Received connection from ('127.0.0.1', 51675)
 [2023-12-02 09:44:14] INFO: Received connection from ('127.0.0.1', 51678)
 [2023-12-02 09:44:14] INFO: Player 2 is matched with player 1
+[2023-12-02 09:53:14] INFO: Reserved port 12345
+[2023-12-02 09:53:14] INFO: Listening to port 12345
+[2023-12-02 09:53:25] INFO: Received connection from ('127.0.0.1', 51746)
+[2023-12-02 09:53:40] INFO: Received connection from ('127.0.0.1', 51751)
+[2023-12-02 09:53:40] INFO: Player 2 is matched with player 1

@@ -172,9 +172,7 @@ class TTTClientGame(cttt.TTTClient):
 
 		# If the length of the string is not 9
 		if(len(s) != 9):
-			# Then print out an error message
 			print("Error: there should be 9 symbols.")
-			# Throw an error 
 			raise Exception
 
 		# Draw the grid board
